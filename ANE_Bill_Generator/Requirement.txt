@@ -1,0 +1,4 @@
+InvoiceGenerator
+cx_Oracle
+python 3.10.2 32 bit
+
